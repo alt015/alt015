@@ -1,10 +1,10 @@
-[![Header](https://github.com/alt015/alt015/blob/main/assets/header.png)](https://disk.yandex.ru/d/gYQ2Zwtla9U7yA)
+[![Header](https://github.com/alt015/alt015/blob/main/assets/header.png)](https://disk.yandex.ru/d/gYQ2Zwtla9U7yA){target="_blank"}
 
 # I`m begginer QA Engineer
 
 ## Link to my CV:
 
-[![CV](https://img.shields.io/badge/Curriculum&nbsp;Vitae-090909?style=for-the-badge&logo=&logoColor=FFD02F)](https://disk.yandex.ru/d/gYQ2Zwtla9U7yA)
+[![CV](https://img.shields.io/badge/Curriculum&nbsp;Vitae-090909?style=for-the-badge&logo=&logoColor=FFD02F)](https://disk.yandex.ru/d/gYQ2Zwtla9U7yA){target="_blank"}
 
 Testing Documentation
 
