@@ -4,7 +4,10 @@
 
 ## Contact Me
 
-[![CV](https://img.shields.io/badge/CV-A23260?style=for-the-badge&logo=&logoColor=FFD02F)](https://disk.yandex.ru/d/gYQ2Zwtla9U7yA)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0073B1?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF)](https://disk.yandex.ru/d/gYQ2Zwtla9U7yA)
+[![Telegram](https://img.shields.io/badge/Telegram-32AADF?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/alt015)
+[![Mail](https://img.shields.io/badge/Mail-E91416?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:alter015@ymail.com)
+[![CV](https://img.shields.io/badge/My&nbsp;CV&nbsp;PDF-A23260?style=for-the-badge&logo=&logoColor=FFD02F)](https://disk.yandex.ru/d/gYQ2Zwtla9U7yA)
 
 Testing Documentation
 
