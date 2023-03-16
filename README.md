@@ -2,6 +2,8 @@
 
 # I`m begginer QA Engineer
 
+### Quality Assurance Engineer with hands-on experience in testing WEB applications, API and Test documentation
+
 ## Contact Me
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0073B1?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/alt015/)
@@ -10,12 +12,6 @@
 
 [![CV](https://img.shields.io/badge/My&nbsp;CV&nbsp;PDF-A23260?style=for-the-badge&logo=&logoColor=FFD02F)](https://disk.yandex.ru/d/gYQ2Zwtla9U7yA)
 
-## Testing Documentation
-
-- [Checklists](https://github.com/alt015/checklists)
-- [Test-Suites and Test-cases](https://github.com/alt015/test_cases)
-- [Bug-Reports](https://github.com/alt015/bug_reports)
-- [Postman Collections](https://github.com/alt015/postman)
 
 ## Language and Tools
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman)
@@ -31,3 +27,10 @@
 ![Miro](https://img.shields.io/badge/Miro-090909?style=for-the-badge&logo=miro&logoColor=FFD02F)
 ![Fiddler](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=FFFFFF)
 ![Charles_proxy](https://img.shields.io/badge/charles&nbsp;proxy-090909?style=for-the-badge&logo=proxy&logoColor=FFFFFF)
+
+## Testing Documentation
+
+- [Checklists](https://github.com/alt015/checklists)
+- [Test-Suites and Test-cases](https://github.com/alt015/test_cases)
+- [Bug-Reports](https://github.com/alt015/bug_reports)
+- [Postman Collections](https://github.com/alt015/postman)
