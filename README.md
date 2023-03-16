@@ -4,12 +4,15 @@
 
 ## Contact Me
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-0073B1?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF)](https://disk.yandex.ru/d/gYQ2Zwtla9U7yA)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0073B1?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/alt015/)
 [![Telegram](https://img.shields.io/badge/Telegram-32AADF?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/alt015)
 [![Mail](https://img.shields.io/badge/Mail-E91416?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:alter015@ymail.com)
+
 [![CV](https://img.shields.io/badge/My&nbsp;CV&nbsp;PDF-A23260?style=for-the-badge&logo=&logoColor=FFD02F)](https://disk.yandex.ru/d/gYQ2Zwtla9U7yA)
 
-Testing Documentation
+## Testing Documentation
+
+
 
 ## Language and Tools
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman)
@@ -24,5 +27,3 @@ Testing Documentation
 ![Miro](https://img.shields.io/badge/Miro-090909?style=for-the-badge&logo=miro&logoColor=FFD02F)
 ![Fiddler](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=FFFFFF)
 ![Charles_proxy](https://img.shields.io/badge/charles&nbsp;proxy-090909?style=for-the-badge&logo=proxy&logoColor=FFFFFF)
-
-Follow me
