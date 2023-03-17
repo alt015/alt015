@@ -1,4 +1,4 @@
-[![Header](https://github.com/alt015/alt015/blob/main/assets/header.png)](https://disk.yandex.ru/d/gYQ2Zwtla9U7yA)
+[![Header](https://github.com/alt015/alt015/blob/main/assets/header.png)](https://github.com/alt015/cv)
 
 # I`m begginer QA Engineer
 
@@ -10,7 +10,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-32AADF?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/alt015)
 [![Mail](https://img.shields.io/badge/Mail-E91416?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:alter015@ymail.com)
 
-[![CV](https://img.shields.io/badge/My&nbsp;CV&nbsp;PDF-A23260?style=for-the-badge&logo=&logoColor=FFD02F)](https://disk.yandex.ru/d/gYQ2Zwtla9U7yA)
+[![CV](https://img.shields.io/badge/My&nbsp;CV&nbsp;PDF-A23260?style=for-the-badge&logo=&logoColor=FFD02F)](https://github.com/alt015/cv)
 
 
 ## Language and Tools
