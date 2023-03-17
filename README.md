@@ -30,10 +30,10 @@
 
 ## Testing Documentation
 
-[![Checklists](https://img.shields.io/badge/Checklists-090909?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/alt015/checklists)
+[![Checklists](https://img.shields.io/badge/GitHub-Checklists-090909?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/alt015/checklists)
 
-[![Test-Suites and Test-cases](https://img.shields.io/badge/Test&ndash;Suites&nbsp;and&nbsp;Test&ndash;cases-090909?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/alt015/test_cases)
+[![Test-Suites and Test-cases](https://img.shields.io/badge/GitHub-Test&ndash;Suites&nbsp;and&nbsp;Test&ndash;cases-090909?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/alt015/test_cases)
 
-[![Bug-Reports](https://img.shields.io/badge/Bug&ndash;Reports-090909?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/alt015/bug_reports)
+[![Bug-Reports](https://img.shields.io/badge/GitHub-Bug&ndash;Reports-090909?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/alt015/bug_reports)
 
-[![Postman Collections](https://img.shields.io/badge/Postman&nbsp;Collections-090909?style=for-the-badge&logo=postman&logoColor=FFFFFF)](https://github.com/alt015/postman)
+[![Postman Collections](https://img.shields.io/badge/GitHub-Postman&nbsp;Collections-090909?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/alt015/postman)
