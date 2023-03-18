@@ -10,17 +10,17 @@
 [![Telegram](https://img.shields.io/badge/Telegram-32AADF?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/alt015)
 [![Mail](https://img.shields.io/badge/Mail-E91416?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:alter015@ymail.com)
 
-[![CV](https://img.shields.io/badge/My&nbsp;CV&nbsp;PDF-A23260?style=for-the-badge&logo=&logoColor=FFD02F)](https://github.com/alt015/cv)
+[![CV](https://img.shields.io/badge/github-My&nbsp;CV&nbsp;PDF-A23260?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/alt015/cv)
 
 
 ## Language and Tools
-![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman)
+[![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman)](https://stepik.org/cert/1995552)
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=2580F7)
 ![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=479E2A)
 ![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=E84E31)
 ![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=EA4C1D)
 ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mySQL&logoColor=FFFFFF)
-![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=4285F4)
+![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)
 ![HTML](https://img.shields.io/badge/HTML|CSS-090909?style=for-the-badge&logo=html5&logoColor=FFD02F)
 ![Linux](https://img.shields.io/badge/Linux-090909?style=for-the-badge&logo=Linux&logoColor=F7C500)
 ![Notion](https://img.shields.io/badge/Notion-090909?style=for-the-badge&logo=notion&logoColor=FFFFFF)
