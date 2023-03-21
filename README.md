@@ -1,4 +1,4 @@
-[![Header](https://github.com/alt015/alt015/blob/main/assets/header2.png)](https://github.com/alt015/cv)
+[![Header](https://github.com/alt015/alt015/blob/main/assets/header.png)](https://github.com/alt015/cv)
 
 # I`m begginer QA Engineer
 
